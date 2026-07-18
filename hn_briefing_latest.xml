@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News Front-Page Briefing</title>
+    <link>https://news.ycombinator.com/news</link>
+    <description>Brief summaries of top Hacker News front-page stories, linked articles, and sampled HN discussion.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2026 18:08:54 GMT</lastBuildDate>
+    <generator>ReCombinator hn_briefing_rss.py</generator>
+    <ttl>30</ttl>
+    <item>
+      <title>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</title>
+      <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
+      <description>
+        <![CDATA[
+        5 hours ago - reddit.com - 195 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>Following the recent announcement that GPT-5.6 Sol Pro had produced a proof of the Cycle Double Cover Conjecture, I adapted the prompting methodology used in that project to a problem in convex optimization. The construction and main invariant used also make genuine sense to me and are closely related to some other results in complexity of convex optimization (for example, Nemirovsky and Yudin's tight bound for first-order convex optimization also uses...</p>
+        
+        <p>HN Response:</p>
+        
+        <p>This conjecture reads as somewhat more niche than the cyclic double cover conjecture recently proved by OpenAI, but nevertheless represents a real contribution. This proof apparently shows that the lower bound time complexity is equal to the time complexity of an existing 30-year old algorithm: it requires Omega(d^2) function evaluations to solve over this class of functions.</p>
+        
+        <br>
+        
+        <a href="https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/">Article</a> -- <a href="https://news.ycombinator.com/item?id=48957779">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>Goodbye, and Thanks for All the Bikesheds</title>
+      <link>https://queue.acm.org/detail.cfm?id=3818307</link>
+      <description>
+        <![CDATA[
+        40 minutes ago - acm.org - 2 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>Take a look and let us know what you think The Bike Shed July 13, 2026 Volume 24, issue 3 PDF Goodbye, and thanks for all the Bikesheds! The Internet is already fractioning into ever-smaller parts you can access with any browser, on any device, running any software you want.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>Ah, the famous "maybe if I take a step back they'll appreciate it and not push harder". There's no "minimally compatible", you either have the privacy technically guaranteed or you don't.</p>
+        
+        <br>
+        
+        <a href="https://queue.acm.org/detail.cfm?id=3818307">Article</a> -- <a href="https://news.ycombinator.com/item?id=48960155">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>Gleam Is Now on Tangled</title>
+      <link>https://tangled.org/gleam.run/gleam</link>
+      <description>
+        <![CDATA[
+        2 hours ago - tangled.org - 54 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>6afb597e sort possible_modules alphabetically 91268c83 rephrase 'did you mean one of these' compiler hint for singular scenario 4ff46a57 Branches Default Gleam is a friendly language for building type-safe systems that scale! Gleam is not owned by a corporation, instead it is kindly supported by its sponsors.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>The irony of that linked page dragging a reposted mid tweet into multiple scrollable pages of "content" and in doing so reading exactly like a celeb news article I think it would only be irony if it was guilty of the same issue it's complaining about in celeb news: not sufficiently explaining the context. Yeah, it turns out human culture has a lot of depth and complexity, even so-called...</p>
+        
+        <br>
+        
+        <a href="https://tangled.org/gleam.run/gleam">Article</a> -- <a href="https://news.ycombinator.com/item?id=48959143">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>Setting up your spare Mac for Claude Code to control, a step-by-step guide</title>
+      <link>https://ykdojo.github.io/claude-controls-mac/</link>
+      <description>
+        <![CDATA[
+        1 hour ago - ykdojo.github.io - 39 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>How to set up your spare Mac for Claude Code to fully control - a step-by-step guide Here's a full step-by-step guide on how to turn your spare Mac into an always-on machine Claude Code can fully control, with computer use enabled. I wanted to create a separate environment Claude Code can control on its own, so I can delegate tasks I don't necessarily want to run on my own machine - certain types of research tasks, and development tasks.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>Though it doesn't get by all the hurdles mentioned, it is alternatively possible to run Mac OS in a VM on your Mac using UTM and install Claude Code within the UTM VM. The interactive performance of using the Claude Code ui on the VM isn't great, however.</p>
+        
+        <br>
+        
+        <a href="https://ykdojo.github.io/claude-controls-mac/">Article</a> -- <a href="https://news.ycombinator.com/item?id=48959392">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind</title>
+      <link>https://deepmind.google/blog/our-approach-to-bioresilience/</link>
+      <description>
+        <![CDATA[
+        2 hours ago - deepmind.google - 15 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>July 16, 2026 Responsibility &amp; Safety Our approach to bioresilience Isomorphic Labs and Google DeepMind Share The global biosecurity landscape is rapidly evolving. Today, Google DeepMind and Isomorphic Labs Our work is twofold - to prevent threat actors from misusing our models, and to ensure that governments, scientists, biosecurity experts and our teams can harness these technologies to build a more resilient world.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>Whether to other labs, or to people launching their own things. "I work at Google" doesn't have the ring it had 10-20 years ago either, something that OAI and especially Anthropic enjoy nowadays. Deepmind is looking less and less like a place of prestige, and more and more like a smash-and-grab. reply Google has always shed researchers but they still have way more of them than everybody...</p>
+        
+        <br>
+        
+        <a href="https://deepmind.google/blog/our-approach-to-bioresilience/">Article</a> -- <a href="https://news.ycombinator.com/item?id=48959297">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>Is this the end of the once-mighty GoPro?</title>
+      <link>https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/</link>
+      <description>
+        <![CDATA[
+        5 hours ago - amateurphotographer.com - 196 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>The GoPro HERO was made to compete with smaller competitor cameras. While GoPro are built to withstand shock, the brand itself is looking distinctly shaky right now.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>I've owned a lot of Gopro cameras, having done video capture for a variety of motorsports, and they just got too expensive for what you get. These days other brands give better quality video in better quality hardware and more functionality, for cheaper. reply GoPro is a US company designed in U.S. with manufacturing in Thailand, China, and Mexico.</p>
+        
+        <br>
+        
+        <a href="https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/">Article</a> -- <a href="https://news.ycombinator.com/item?id=48916044">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>If You Build It, They Will Come</title>
+      <link>https://www.benlandautaylor.com/p/if-you-build-it-they-will-come</link>
+      <description>
+        <![CDATA[
+        2 hours ago - benlandautaylor.com - 17 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>If You Build It, They Will Come Ben Landau-Taylor Jul 18, 2026 52 8 Share Several times in my life I've tried to break in with a new social group. Getting people to come is like giving away ice cream at the beach.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>&gt; Lots of people have a sort of consumer attitude towards their communities, where they take everything for granted. A social scene is an automatic feature of the world that appears on its own, like a wild blueberry bush.</p>
+        
+        <br>
+        
+        <a href="https://www.benlandautaylor.com/p/if-you-build-it-they-will-come">Article</a> -- <a href="https://news.ycombinator.com/item?id=48959090">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>Elixir-lang.org has a new design</title>
+      <link>https://elixir-lang.org/</link>
+      <description>
+        <![CDATA[
+        2 hours ago - elixir-lang.org - 45 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>Maintenance Elixir helps developers write clear and purposeful code that focuses on your data and your domain. See our cases Use Elixir for Web development Embedded systems Machine Learning Data and media IoT &amp; Distributed Systems The Phoenix web framework delivers rapid development, LiveView adds real-time features with minimal code, and Ecto makes your data layer a joy to work with.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>José Valim &amp; team have made such an incredible language and ecosystem. thank you for all the faithful work, especially the run up to 1.20 over this past year Elixir is such an elegant language. It appears to me like a "design trend" that's at odds with accessibility. https://www.apple.com does this too.</p>
+        
+        <br>
+        
+        <a href="https://elixir-lang.org/">Article</a> -- <a href="https://news.ycombinator.com/item?id=48959042">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?</title>
+      <link>https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/</link>
+      <description>
+        <![CDATA[
+        7 hours ago - charlesazam.com - 68 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>Blog TL;DR: I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native mode. I then repeated the flagship comparison until I had three matched runs for Fable 5 and three Model Run Plain Goal minus plain Fable 5 1 32,197 31,934 2 32,516 32,324 3 32,446 35,178 GPT-5.6 Sol 33,581 39,371 35,539 32,703 33,663 33,313 Negative means was better.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>Generally as the OP notes, /goal works better for single-track investigations or small scale scatter/gather. reply I think ultra mode needs to be more clearly documented (or perhaps cautioned against!). Fable would just spends minutes thinking, processing, confabulating etc.</p>
+        
+        <br>
+        
+        <a href="https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/">Article</a> -- <a href="https://news.ycombinator.com/item?id=48956879">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title>Show HN: Q3Edit - Edit and play Quake 3 maps in the browser</title>
+      <link>https://q3edit.com</link>
+      <description>
+        <![CDATA[
+        2 hours ago - q3edit.com - 5 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>Quake III Arena map editor Edit, compile &amp; play Quake III maps Open, edit, and save real entities, and terrain in a TypeScript + WebGL2 editor, with BSP compilation by id Software's original q3map compiled to WebAssembly. Launch Q3Edit No game files needed - ships with OpenArena assets.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>Would love a way to implement and play on the browser as well. Are you compiling the maps with q3map2? back when I was in high school, my friend and I used Quiver [0] to make quake maps on macos - it was very fun. to think that quake networking worked under those old school modem conditions/latency is kind of wild. id3 truly were miraculous developers.</p>
+        
+        <br>
+        
+        <a href="https://q3edit.com">Article</a> -- <a href="https://news.ycombinator.com/item?id=48958854">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+  </channel>
+</rss>

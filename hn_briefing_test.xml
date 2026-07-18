@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News Front-Page Briefing</title>
+    <link>https://news.ycombinator.com/news</link>
+    <description>Brief summaries of top Hacker News front-page stories, linked articles, and sampled HN discussion.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2026 17:58:17 GMT</lastBuildDate>
+    <generator>ReCombinator hn_briefing_rss.py</generator>
+    <ttl>30</ttl>
+    <item>
+      <title>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</title>
+      <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
+      <description>
+        <![CDATA[
+        4 hours ago - reddit.com - 192 HN comments
+        
+        <br>
+        
+        <p>Article Summary:</p>
+        
+        <p>Following the recent announcement that GPT-5.6 Sol Pro had produced a proof of the Cycle Double Cover Conjecture, I adapted the prompting methodology used in that project to a problem in convex optimization. The problem concerns deterministic zeroth-order convex optimization: Let B_d be the Euclidean unit ball in ℝᵈ, and consider all convex, 1-Lipschitz functions f: B_d → ℝ.</p>
+        
+        <p>HN Response:</p>
+        
+        <p>This conjecture reads as somewhat more niche than the cyclic double cover conjecture recently proved by OpenAI, but nevertheless represents a real contribution. This proof apparently shows that the lower bound time complexity is equal to the time complexity of an existing 30-year old algorithm: it requires Omega(d^2) function evaluations to solve over this class of functions.</p>
+        
+        <br>
+        
+        <a href="https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/">Article</a> -- <a href="https://news.ycombinator.com/item?id=48957779">HN Discussion</a>
+        ]]>
+      </description>
+    </item>
+  </channel>
+</rss>

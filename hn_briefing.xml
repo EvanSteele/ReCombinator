@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News Front-Page Briefing</title>
+    <link>https://news.ycombinator.com/news</link>
+    <description>Brief summaries of top Hacker News front-page stories, linked articles, and sampled HN discussion.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2026 16:09:31 GMT</lastBuildDate>
+    <generator>ReCombinator hn_briefing_rss.py</generator>
+    <ttl>30</ttl>
+    <item>
+      <title>1. GPT-5.6 used a prompt to close a 30-year gap in convex optimization</title>
+      <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
+      <description>reddit.com | 238 points | 120 comments | by mbustamanter | 3 hours ago
+
+Article: Log in 15 Jul 2026 705 Submit a new link Submit a new text post 18 years MODERATORS Welcome to Reddit, Become a Redditor and join one of thousands of communities. 704 706 After OpenAI's CDC proof announcement, GPT-5.6 used a similar prompt to close a 30-year gap in convex optimization, verified in Lean 2 days ago 166 comments Want to add to the discussion?
+
+HN reaction: HN discussion highlights: This conjecture reads as somewhat more niche than the cyclic double cover conjecture recently proved by OpenAI, but nevertheless represents a real contribution. This proof apparently shows that the lower bound time complexity is equal to the time complexity of an existing 30-year old algorithm: it requires Omega(d^2) function evaluations to solve over this class of functions.
+
+Discussion: https://news.ycombinator.com/item?id=48957779</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48957779</guid>
+      <comments>https://news.ycombinator.com/item?id=48957779</comments>
+      <pubDate>Sat, 18 Jul 2026 16:09:31 GMT</pubDate>
+      <author>mbustamanter</author>
+      <source url="https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/">reddit.com</source>
+    </item>
+  </channel>
+</rss>
